@@ -1,2 +1,2 @@
 # MateMagicaReborn
-Oi kakakak
+Apenas um trabalho para a materia de Matematica.
